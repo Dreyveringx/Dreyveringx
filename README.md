@@ -28,3 +28,12 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreyveringx&show_icons=true&locale=en" alt="dreyveringx" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreyveringx" alt="dreyveringx" /></a> </p>
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dreyveringx&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Dreyveringx&theme=nightowl&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dreyveringx&theme=nightowl&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Dreyveringx&icon=2&color=9)](https://visitcount.itsvg.in)
