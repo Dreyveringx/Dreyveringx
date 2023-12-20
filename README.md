@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, me llamo Jair Uribe</h1>
+<h1 align="center">Hola 👋, soy Jair Uribe</h1>
 <h3 align="center">Desarrollador Frontend</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreyveringx" alt="dreyveringx" /></a> </p>
