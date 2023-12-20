@@ -15,7 +15,7 @@
 
 - 👨‍💻 Todos mis proyectos los puedes enconrar en [https://website-six-olive-93.vercel.app/](https://website-six-olive-93.vercel.app/)
 
-- 📫 How to reach me **xdreyveringx@outlook.com**
+- 📫 Como ponerse en contacto conmigo **xdreyveringx@outlook.com**
 
 - 🌱 Actualmente desarrollo habilidades en: **React, Tailwind**
 
