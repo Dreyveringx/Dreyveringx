@@ -13,13 +13,11 @@
 <a href="https://linkedin.com/in/dreyveringx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dreyveringx" height="30" width="40" /></a>
 </p>
 
-- 👨‍💻 Todos mis proyectos los puedes encontrar en **https://website-six-olive-93.vercel.app/**
-
-- 🌱 I’m currently learning **React, Tailwind**
+- 👨‍💻 Todos mis proyectos los puedes enconrar en [https://website-six-olive-93.vercel.app/](https://website-six-olive-93.vercel.app/)
 
 - 📫 How to reach me **xdreyveringx@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+- 🌱 Actualmente desarrollo habilidades en: **React, Tailwind**
 
 
 <h3 align="left">Languages and Tools:</h3>
