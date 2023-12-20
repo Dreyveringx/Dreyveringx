@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, soy Jair Uribe</h1>
 <h3 align="center">Desarrollador Frontend</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreyveringx" alt="dreyveringx" /></a> </p>
-
 - 🌱 I’m currently learning **React, Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://website-six-olive-93.vercel.app/](https://website-six-olive-93.vercel.app/)
@@ -24,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreyveringx&show_icons=true&locale=en&layout=compact" alt="dreyveringx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreyveringx&show_icons=true&locale=en" alt="dreyveringx" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreyveringx" alt="dreyveringx" /></a> </p>
