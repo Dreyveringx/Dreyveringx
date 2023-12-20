@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, soy Jair Uribe</h1>
+
 <h3 align="center">Desarrollador Frontend</h3>
 
 # 💫 About Me:
@@ -19,6 +20,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://website-six-olive-93.vercel.app/" target="blank"><img align="center" <i class="fa-solid fa-globe" alt="dreyveringx" height="30" width="40"> <i/></a>
 <a href="https://linkedin.com/in/dreyveringx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dreyveringx" height="30" width="40" /></a>
 </p>
 
