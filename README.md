@@ -4,8 +4,6 @@
 
 # 💫 About Me:
 
-<p>Apasionado por lo que hago y dispuesto a enfrentar desafíos. Amante de la transformación digital y la accesibilidad para lograr una verdadera inclusión. Mi punto único radica en mi versatilidad, impulsándome a adaptarme a diversos entornos de trabajo.</p>
-
 <p>Soy desarrollador de software en constante aprendizaje, siempre explorando nuevas formas de mejorar la experiencia del usuario y la calidad del desarrollo.</p>
 
 ## 🌐 Socials:
