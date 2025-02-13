@@ -30,7 +30,7 @@
         <a href="https://www.w3schools.com/css/" class="external-link"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
         </a> 
-        <a href="https://www.figma.com/" class="external-link"> 
+        <a href="https://www.figma.com/" class="external-link" target="_blank"> 
             <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
         </a> 
         <a href="https://www.w3.org/html/" class="external-link"> 
